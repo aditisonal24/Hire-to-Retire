@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Director Dashboard",
+  "description": "Enterprise Delivery Director (DD) Dashboard to manage the complete demand lifecycle, validation, approvals, staffing, resource planning, financial tracking, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

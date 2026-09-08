@@ -1,0 +1,28 @@
+<svg viewBox="0 0 380 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(6, 68) rotate(-18.5)">
+    <text 
+      x="0" 
+      y="36" 
+      fill="#000000" 
+      font-size="46" 
+      font-weight="900" 
+      font-family="'Arial Black', 'Montserrat', Impact, 'Segoe UI Black', -apple-system, BlinkMacSystemFont, sans-serif"
+      letter-spacing="0.02em"
+    >
+      ASCEN
+    </text>
+  </g>
+  <g transform="translate(182, 10) rotate(18.5)">
+    <text 
+      x="0" 
+      y="36" 
+      fill="#000000" 
+      font-size="46" 
+      font-weight="900" 
+      font-family="'Arial Black', 'Montserrat', Impact, 'Segoe UI Black', -apple-system, BlinkMacSystemFont, sans-serif"
+      letter-spacing="0.02em"
+    >
+      DION
+    </text>
+  </g>
+</svg>
